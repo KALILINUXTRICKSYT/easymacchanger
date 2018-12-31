@@ -39,7 +39,7 @@ git clone https://github.com/KALILINUXTRICKSYT/easymacchanger/
 
 cd easymacchanger
 
-bash install
+bash installer.sh
 
 # How to run (after installation):
 To execute Easy Mac Changer type anywhere in your terminal "easymacchanger".
