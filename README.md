@@ -35,8 +35,10 @@ Easy Mac Changer is intented ONLY for EDUCATIONAL PURPOSES.
 
 
 # How to install:
-git clone 
+git clone https://github.com/KALILINUXTRICKSYT/easymacchanger/
+
 cd easymacchanger
+
 bash install
 
 # How to run (after installation):
