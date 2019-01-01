@@ -1,6 +1,6 @@
 # Easy Mac Changer
 
-Easy Mac Changer - Change your MAC Address Change the network identity of your device (EASIER and FASTER than EVER)
+Easy Mac Changer - Change your MAC Address - Change the network identity of your device (EASIER and FASTER than EVER)
  
 
 # Desclaimer
