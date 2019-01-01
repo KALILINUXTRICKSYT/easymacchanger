@@ -6,9 +6,10 @@ Easy Mac Changer - Change your MAC Address Change the network identity of your d
 # Desclaimer
 Easy Mac Changer is intented ONLY for EDUCATIONAL PURPOSES.
 
-# What is MAC Address:
+# MAC address:
 
-A media access control address (MAC address) of a device is a unique identifier assigned to a network interface controller (NIC) for communications at the data link layer of a network segment.
+MAC stands for Media Access Control. It is a unique identifier for network interfaces. It is used as a network address for most IEEE 802 network technologies. Sometimes it is known as the burned-in address (BIA) or the Ethernet hardware address (EHA). Among its applications are the Ethernet, 802.11 wireless networks and Bluetooth.
+For more infrormation: https://www.cleverfiles.com/howto/what-is-mac-address.html
 
 # Options:
 
