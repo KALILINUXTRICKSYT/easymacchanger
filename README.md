@@ -1,10 +1,14 @@
 # Easy Mac Changer
 
-Easy Mac Changer - Change the network identity of your device (EASIER and FASTER than EVER)
+Easy Mac Changer - Change your MAC Address Change the network identity of your device (EASIER and FASTER than EVER)
  
 
 # Desclaimer
 Easy Mac Changer is intented ONLY for EDUCATIONAL PURPOSES.
+
+# What is MAC Address:
+
+A media access control address (MAC address) of a device is a unique identifier assigned to a network interface controller (NIC) for communications at the data link layer of a network segment.
 
 # Options:
 
