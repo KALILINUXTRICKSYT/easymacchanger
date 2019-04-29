@@ -49,5 +49,8 @@ bash installer.sh
 # How to run (after installation):
 To execute Easy Mac Changer type anywhere in your terminal "easymacchanger".
 
+# Video tutorial:
+https://www.youtube.com/watch?v=TFvcEZr3wS0
+
 # Support us:
 https://www.patreon.com/kalilinuxtricks
